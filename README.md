@@ -1,2 +1,2 @@
 # Leibou
-A simple QRCode Label generator gem
+A simple QRCode Label generator gem.
